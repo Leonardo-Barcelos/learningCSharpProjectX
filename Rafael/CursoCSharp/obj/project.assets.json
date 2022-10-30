@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aprendendo CSharp\\Leonardo-Barcelos\\learningCSharpProjectX\\Leonardo\\CursoCShar´p\\CursoCShar´p.csproj",
-      "projectName": "CursoCShar´p",
-      "projectPath": "D:\\Aprendendo CSharp\\Leonardo-Barcelos\\learningCSharpProjectX\\Leonardo\\CursoCShar´p\\CursoCShar´p.csproj",
+      "projectUniqueName": "D:\\Aprendendo CSharp\\Leonardo-Barcelos\\learningCSharpProjectX\\Rafael\\CursoCSharp\\CursoCSharp.csproj",
+      "projectName": "CursoCSharp",
+      "projectPath": "D:\\Aprendendo CSharp\\Leonardo-Barcelos\\learningCSharpProjectX\\Rafael\\CursoCSharp\\CursoCSharp.csproj",
       "packagesPath": "C:\\Users\\d3pro\\.nuget\\packages\\",
-      "outputPath": "D:\\Aprendendo CSharp\\Leonardo-Barcelos\\learningCSharpProjectX\\Leonardo\\CursoCShar´p\\obj\\",
+      "outputPath": "D:\\Aprendendo CSharp\\Leonardo-Barcelos\\learningCSharpProjectX\\Rafael\\CursoCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\d3pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
